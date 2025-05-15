@@ -46,6 +46,6 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-logo="https://iahbr.tmgrup.com.tr/site/v2/i/ahaber-logo-2.png",A haber
-http://185.234.111.229:8000/play/a019
+https://b.fulltvizle.com/ahaber/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvnet.com.tr/dist/img/logo.png",TvNet
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
