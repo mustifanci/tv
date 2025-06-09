@@ -62,4 +62,12 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="https://tr.wikipedia.org/wiki/BBC_World_News#/media/Dosya:BBC_World_News_2022_(Boxed).svg",BBC News HD
 #EXTINF:-1 tvg-logo="https://tr.m.wikipedia.org/wiki/Dosya:CNN_International_logo.svg",Cnn 
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/France.tv_-_logo_2022.svg",France 2
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/France.tv_-_logo_2022.svg",France 5
+http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 tvg-logo="https://fr.wikipedia.org/wiki/TF1#/media/Fichier:Logo_TF1_2013.svg",TF1
+https://livetvde.net/tf1/tracks-v1a1/mono.m3u8?token=914a0d4447d466e3417ebd68c90d0fff885ee85a-23fac02663eaae57b40454e4b9d5f960-1749461834-1749451034
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_BFMTV_2019.svg",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
